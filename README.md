@@ -21,7 +21,31 @@ Thanks to the plinko game panel provided by [StephenGrider](https://github.com/S
 
 
 
-## How to play with it?
+## Usage
+
+* Clone the repo and open index.html 
+
+```bash
+git clone https://github.com/JoKerDii/lucky-bucket.git
+```
+
+* or simply click [here](http://rawcdn.githack.com/JoKerDii/lucky-bucket/main/index.html).
+
+
+
+**There are two options for users:**
+
+* Option 1:
+
+  * If you want to release your stress, click the panel as crazily as you can.
+
+* Option 2:
+
+  * If you want to be gentle and professional, use the buttons.
+
+    
+
+## Description
 
 1. "Analyze!" button:
 
@@ -36,18 +60,9 @@ Thanks to the plinko game panel provided by [StephenGrider](https://github.com/S
 
    
 
-**There are two options for users:**
+## Notes
 
-* Option 1:
-  * If you want to release your stress, click the panel as crazily as you can.
-* Option 2:
-  * If you want to be gentle and professional, use the buttons.
-
-
-
-## Log
-
-The development log  - “log.md”.
+The development note  - “note.md”.
 
 
 
