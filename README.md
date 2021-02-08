@@ -47,7 +47,7 @@ Thanks to the plinko game panel provided by [StephenGrider](https://github.com/S
 
 ## Log
 
-The development log is here.
+The development log  - “log.md”.
 
 
 

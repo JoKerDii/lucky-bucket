@@ -1,0 +1,156 @@
+
+body {
+    background-color: #47485c;
+}
+.info {
+    display: block;
+}
+.avatar-div{
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    /* background-color: #232731; */
+    border-radius: 2px;
+    vertical-align: top;
+    position: relative;
+}
+
+.avatar {
+    display: inline-block;
+    vertical-align: top;
+    /* width: 40px;
+    height: 40px; */
+
+    cursor: auto;
+    padding: 2px;
+    border-radius: 100%;
+    max-width: 100%;
+    /* float: left; */
+    /* box-shadow: inset 0 0 10px #000000; */
+    /* margin-top: 5px; */
+    /* margin-bottom: 5px; */
+    margin-right: -15px;
+    width: 60px;
+    height: 60px;
+    
+}
+
+.desc-div {
+    
+    /* padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 15px;
+    */
+    /* float: right; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+    
+    font-weight: 400;
+    
+    /* background-color: #99a3fa; */
+    border-radius: 2px;
+    color: #fff;
+    display: inline-block;
+    /* width: 134px; */
+    height: 50px;
+    line-height: 40px;
+    /* margin-left: 10px; */
+    padding: 8px 2px;
+    font-size: 25px;
+    text-align: center;
+    max-width: 250px;
+    text-overflow: ellipsis;
+}
+    
+.desc {
+    
+    padding-top: 15px;
+    padding-left: 15px;
+    display: inline-block;
+    /* float: right; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+/* boxes */
+
+.ui.ignored.message.form {
+    background: #6c6e8d;
+    color: #fff;
+    margin: 0 0;
+    padding: 0.5em 1em;
+}
+
+.ui.primary.button, .ui.primary.buttons .button {
+    background-color: #232731;
+    color: #fff;
+}
+
+.ui.form .field>label {
+    color:#fff;
+}
+
+.ui.primary.button {
+    padding: .48571429em 1.2em .48571429em;
+}
+
+.ui.form input[type=text] {
+    padding: .37857143em 1em;
+}
+
+
+.ui.form input:not([type]) {
+    padding: .37857143em 1em;
+}
+
+/* .x-position {
+    display: inline;
+    width: 200px;
+}
+.x-bounciness {
+    display: inline;
+}
+.x-ball-size {
+    display: inline;
+}
+.x-guess {
+    display: inline;
+}
+.x-acc {
+    display: inline;
+} */
+
+.ui.grid {
+    display:inline;
+}
+.area{
+    background-color: #232731;
+    border-radius: 3px;
+    color: #fff;
+    display: inline-block;
+    width:  90%;
+    height: 30px;
+    line-height: 40px;
+    margin-left: 10px;
+    padding: 0 10px;
+    font-size: 13px;
+    /* text-align: center; */
+    max-width: 400px;
+    text-overflow: ellipsis;
+    line-height: 30px
+}
+
+.stats{
+    background-color: #8359e4;
+}
+
+.ui.grid {
+    padding-left: 1.8rem;
+}
