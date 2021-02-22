@@ -23,13 +23,7 @@ Thanks to the plinko game panel provided by [StephenGrider](https://github.com/S
 
 ## Usage
 
-* Clone the repo and open index.html 
-
-```bash
-git clone https://github.com/JoKerDii/lucky-bucket.git
-```
-
-* or simply click [here](http://rawcdn.githack.com/JoKerDii/lucky-bucket/main/index.html).
+* Click [here](https://jokerdii.github.io/lucky-bucket/).
 
 
 
